@@ -1,0 +1,10 @@
+
+
+
+
+# porfavor no tocar ni eliminar nada en esta carpeta
+# que tal cual aca se almacenan los rc creados
+# para explotar exploits en metasploits
+
+
+# servicio de ayuda; https://t.me/CesarGray

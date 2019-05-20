@@ -1,0 +1,17 @@
+#!../usr/bin/bash
+
+R='\033[1;31m'                                                        G='\033[1;32m'                                                        Y='\033[1;33m'                                                        B='\033[1;34m'                                                        M='\033[1;35m'                                                        C='\033[1;36m'
+W='\033[0m'
+
+echo $(clear)
+echo
+echo -e $C"  oooooo       .oPYo. 8       $G           8            "      
+echo -e $C"      d'       8      8  $G                8                  "
+echo -e $C"     d          Yooo. 8oPYo.$G .oPYo. .oPYo8  oPYo. o   o   o "
+echo -e $C"    d    ooooo      8 8 $G   8 .oooo8 8    8 8    8 Y. .P. .P "
+echo -e $C"   d                8 8    8 8    8 8    8$G 8    8  b.d b.d  "
+echo -e $C"  dooooo        YooP  8   $G 8  YooP8  YooP   YooP    Y   Y   "
+echo -e $C"  .......:::::::.....:..:::..:.....::.....::.....:::..::..::"
+echo -e $C"  :::::::::::::$R:Created by @Cesar && Mickey$C:::::::::::::::::"
+echo -e $C"  ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+echo

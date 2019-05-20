@@ -1,0 +1,22 @@
+#!../usr/bin/bash
+clear
+R='\033[1;31m'
+G='\033[1;32m'
+Y='\033[1;33m'
+B='\033[1;34m'
+M='\033[1;35m'
+C='\033[1;36m'                                                        W='\033[0m'
+
+echo -e $R"                            ______"
+echo -e $R"                         .-        -."
+echo -e $R"                        /            \\"
+echo -e $R"                       |, $C .-.  .-.$R  ,|"
+echo -e $R"                       | )$C(_ /  \_ )$R( |"
+echo -e $R"                       |/  $C   /\  $R   \|"
+echo -e $R"            $Y (@_$R       <__    ^^    __> $C Created by @Cesar"
+echo -e $R"      _       ) \_______\__|IIIIII|__/_____________________"
+echo -e $R"     (_)$Y\@8@8{}$R<___________________________________________>"
+echo -e $R"              )_/         \ IIIIII /"
+echo -e $R"             $Y(@ $R           --------"
+echo -e $W"             Contactame  https://t.me/CesarGray"
+echo

@@ -1,0 +1,6 @@
+ 
+
+
+# Holaaa soy Cesar apodado como Cesar Hack Gray
+# Aca en esta carpeta es donde se almacenan 
+# los payloads que se crean como "exe"
