@@ -10,3 +10,37 @@
 
 # Example
 ![Screenshot_20190628-083358~01](https://user-images.githubusercontent.com/46208706/60349817-8b641880-997f-11e9-938e-7695f32f85cf.png)
+# Example 2
+# 2do menu de Spayer framework
+![Screenshot_20190628-083050~01](https://user-images.githubusercontent.com/46208706/60350563-0da10c80-9981-11e9-99cf-133ba4e839fc.png)
+# informacion de las herramientas de Spayer
+
+
+       Nos permite hacer spam a correos electronicos 
+       y nos permite crear payloads para linux
+       payloads para android y backdoor a apks
+       y tenemos la herramienta adentro de extraer
+       los databases de una fotografia (exit-tool)
+       y tenemos la herramienta phishing adentro tambien
+       y la herramienta hack wifi metodo phishing
+       hay un poco de todo en Spayer
+       
+ 
+ #### Installation
+ 
+ 
+       git clone https://github.com/Cesar-Hack-Gray/Spayer
+       cd Spayer
+       ls
+       bash install.sh
+       bash Spayer
+       
+  
+  #### Requisitos
+  
+  
+       metasploit-framework
+       apktool
+       php
+       java
+       
